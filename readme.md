@@ -29,7 +29,7 @@ Ensure you have Python 3.x and the necessary libraries installed. All dependenci
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Avdh512/ShortsMakerPika.git
 cd ShortsMaker
 ```
 
